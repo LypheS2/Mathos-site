@@ -24,3 +24,16 @@ body {
     width: 720px;
     height: 600px;
 }
+
+@media (max-width: 600px) {
+   
+    .apresentacao__div {
+        width: 400px;
+        height: 700px;
+    }
+
+    .jogo {
+        width: 400px;
+        height: 700px;
+    }
+}
