@@ -28,7 +28,7 @@ body {
 @media (max-width: 600px) {
    
     .apresentacao__div {
-        padding: 0% 0% 0% 2,5%;
+        padding: 0% 0% 0% 1%;
         width: 95%;
         height: 700px;
     }
