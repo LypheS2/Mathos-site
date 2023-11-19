@@ -28,13 +28,13 @@ body {
 @media (max-width: 600px) {
    
     .apresentacao__div {
-        padding: 0%;
-        width: 90%;
+        padding: 0% 0% 0% 2,5%;
+        width: 95%;
         height: 700px;
     }
 
     .jogo {
-        width: 90%;
+        width: 95%;
         height: 700px;
     }
 }
