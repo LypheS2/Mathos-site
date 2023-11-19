@@ -28,6 +28,7 @@ body {
 @media (max-width: 600px) {
    
     .apresentacao__div {
+        padding: 0%;
         width: 400px;
         height: 700px;
     }
