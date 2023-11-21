@@ -34,7 +34,7 @@ const createWindow = (windowOptions) => {
       nodeIntegration: false,
     },
     show: true,
-    width: 1200,
+    width: 1280,
     height: 900,
     ...windowOptions,
   };
